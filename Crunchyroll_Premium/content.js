@@ -21,7 +21,7 @@ function importPlayer(){
     	console.log("[CR Premium] Adicionando o jwplayer...");
     	ifrm = document.createElement("iframe");
     	ifrm.setAttribute("id", "frame"); 
-		ifrm.setAttribute("src", "https://escalabrate.github.io/crp-iframe-player/"); 
+		ifrm.setAttribute("src", "https://Escalabrate.github.io/crpiframeplayer/"); 
 		ifrm.setAttribute("width","100%");
 		ifrm.setAttribute("height","100%");
 		ifrm.setAttribute("frameborder","0");
